@@ -1,1 +1,3 @@
 # case_study
+## Introduction
+In this project, a group of analysts is studying data for a bike-sharing company in Chicago. The head of marketing thinks that the company's success in the future depends on getting more people to sign up for yearly memberships. So, the team is trying to figure out how people who use the bikes occasionally and those with yearly memberships use the bikes in different ways. With this information, the team plans to create a new way to encourage occasional riders to become yearly members. However, before the company leaders agree to these ideas, the team needs to show them strong evidence and professional visual aids based on the data.
